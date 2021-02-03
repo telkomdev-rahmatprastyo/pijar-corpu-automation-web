@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Filter , Sort By ,Search and Pagination</description>
+   <name>TC005-Use All Functions Together</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>177dfdc1-9ede-4ecb-8e90-203c7d9a6e15</testCaseGuid>
+</TestCaseEntity>

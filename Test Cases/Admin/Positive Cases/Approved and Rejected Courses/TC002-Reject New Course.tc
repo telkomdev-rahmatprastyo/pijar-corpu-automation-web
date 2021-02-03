@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Employee Admin Reject New Course</description>
+   <name>TC002-Reject New Course</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a6a407d-8860-4cae-b3d3-747eb0d6990b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pagination list course</description>
+   <name>TC004-Pagination</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>98b5c12c-f4ed-43c5-8b3b-cef40dbe3648</testCaseGuid>
+</TestCaseEntity>

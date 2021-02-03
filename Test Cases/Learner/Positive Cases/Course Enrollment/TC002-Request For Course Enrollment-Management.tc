@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Employee as Management Can Request For Course Enrollment</description>
+   <name>TC002-Request For Course Enrollment-Management</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2bfc7d8b-3792-4a01-8e36-6dc11f6066ba</testCaseGuid>
+</TestCaseEntity>

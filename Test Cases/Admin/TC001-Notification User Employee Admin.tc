@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Notifications for Employee Admin Users</description>
+   <name>TC001-Notification User Employee Admin</name>
+   <tag></tag>
+   <comment>If you want to close the notification, you can click &quot;Image Bell&quot; again or click anywhere </comment>
+   <testCaseGuid>53e6d4d9-6c2f-4233-900b-1727b51bb967</testCaseGuid>
+</TestCaseEntity>

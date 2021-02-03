@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Employee Admin Approve New Course</description>
+   <name>TC001-Approve New Course</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5794e31f-1c0d-42cb-937c-1c9a909b0d24</testCaseGuid>
+</TestCaseEntity>

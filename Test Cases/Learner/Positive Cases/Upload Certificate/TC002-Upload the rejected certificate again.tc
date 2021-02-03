@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002-Upload the rejected certificate again</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>869e19cd-1458-4a3f-b1eb-c50a29309a53</testCaseGuid>
+</TestCaseEntity>

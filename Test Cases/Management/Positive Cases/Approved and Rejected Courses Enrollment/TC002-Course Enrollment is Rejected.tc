@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Course requests are rejected by the management employee user</description>
+   <name>TC002-Course Enrollment is Rejected</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da701916-9d6c-4f1b-8354-e660fc8f8327</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make sure user can view the course list based on the filter</description>
+   <name>TC001-Filter Course</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>27be096e-9467-4630-a3db-a9120ad642a6</testCaseGuid>
+</TestCaseEntity>

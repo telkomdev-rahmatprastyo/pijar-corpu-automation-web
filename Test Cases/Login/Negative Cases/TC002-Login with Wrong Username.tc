@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make sure the user cannot log in if the username are wrong</description>
+   <name>TC002-Login with Wrong Username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b3cce529-3b78-4eb6-8e09-50a3e166903c</testCaseGuid>
+</TestCaseEntity>

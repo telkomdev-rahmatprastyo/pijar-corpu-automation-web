@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Course request must be more than 5 days from now</description>
+   <name>TC001-Course request must be more than 5 days from now</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7f274d3-c7a0-42c9-a82c-afdbc84444e0</testCaseGuid>
+</TestCaseEntity>

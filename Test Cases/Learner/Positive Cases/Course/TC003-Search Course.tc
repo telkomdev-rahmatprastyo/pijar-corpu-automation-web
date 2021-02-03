@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Make sure the user can search for the course you want to view</description>
+   <name>TC003-Search Course</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8d84c292-9850-44e2-a600-7c6ffc0153a1</testCaseGuid>
+</TestCaseEntity>

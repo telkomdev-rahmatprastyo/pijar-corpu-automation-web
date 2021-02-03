@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_provider-javascript</name>
+   <tag></tag>
+   <elementGuidId>1b6ec27d-74af-48c3-b24e-071f79fe94f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'javascriptUsername:javascriptdevEmail:javascript@js.comWebsite:javascript.comDescription:Penulisan dalam...read more' or . = 'javascriptUsername:javascriptdevEmail:javascript@js.comWebsite:javascript.comDescription:Penulisan dalam...read more')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/main/div/div/div/div/div[2]/div[3]/div/div/div/div/div/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-0 col-12 col-sm-12 col-md-12 col-lg-10</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>javascriptUsername:javascriptdevEmail:javascript@js.comWebsite:javascript.comDescription:JavaScript adal...read more</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;app bg-gray-main&quot;]/div[@class=&quot;min-height-65vh m-0 row&quot;]/div[@class=&quot;pl-0 pr-0 col-12 col-sm-12 col-md-9 col-lg-9&quot;]/main[1]/div[1]/div[@class=&quot;animated fadeIn main container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-sm-12 col-md-12 col-lg-12&quot;]/div[@class=&quot;provider-parent&quot;]/div[@class=&quot;pad-right-14 pad-left-14&quot;]/div[@class=&quot;card-custom card&quot;]/div[@class=&quot;card-custom body white card-body&quot;]/div[@class=&quot;provider-link&quot;]/div[@class=&quot;pad-right-10 pad-left-10 row&quot;]/div[@class=&quot;p-0 col-12 col-sm-12 col-md-12 col-lg-12&quot;]/div[@class=&quot;pad-right-10 pad-left-10 row&quot;]/div[@class=&quot;p-0 col-12 col-sm-12 col-md-12 col-lg-10&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/main/div/div/div/div/div[2]/div[3]/div/div/div/div/div/div[2]/div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Join Date:'])[2]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div[2]/div[2]</value>
+   </webElementXpaths>
+</WebElementEntity>

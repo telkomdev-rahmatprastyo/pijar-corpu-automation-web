@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>New Course Online Internal Instructor</description>
+   <name>TC0002-Create Propose New Course Online Internal Instructor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f830ad1e-bb49-48b5-a2f3-d7bcb2717206</testCaseGuid>
+</TestCaseEntity>

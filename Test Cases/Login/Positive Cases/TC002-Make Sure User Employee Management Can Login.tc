@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login as User Employee Management</description>
+   <name>TC002-Make Sure User Employee Management Can Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b28694f5-2783-4912-babc-31473590e113</testCaseGuid>
+</TestCaseEntity>

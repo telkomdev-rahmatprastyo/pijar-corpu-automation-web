@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Employee Learner Can Request Enrollment For Course Again if Course Enrollment is Rejected- My Deposit</description>
+   <name>TC001-Rejected Course May Request For Re-Course Enrollment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac7060aa-3801-4233-9301-c9765271e22c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User can view the uploaded certificate</description>
+   <name>TC001-View Certificates</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaadf1fa-8919-48a7-8b58-b2f0fb7f2fa6</testCaseGuid>
+</TestCaseEntity>

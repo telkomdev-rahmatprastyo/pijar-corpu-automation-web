@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login as User Employee HC</description>
+   <name>Login User Employee as HC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>944c74c2-5634-4a98-87ee-5c11d2f1677a</testCaseGuid>
+</TestCaseEntity>
