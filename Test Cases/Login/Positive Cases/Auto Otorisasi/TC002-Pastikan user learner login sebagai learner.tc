@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pastikan user pertama kali login sebagai learner</description>
+   <name>TC002-Pastikan user learner login sebagai learner</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d4d862ba-2150-4391-82f7-986b0d3a314a</testCaseGuid>
+</TestCaseEntity>
