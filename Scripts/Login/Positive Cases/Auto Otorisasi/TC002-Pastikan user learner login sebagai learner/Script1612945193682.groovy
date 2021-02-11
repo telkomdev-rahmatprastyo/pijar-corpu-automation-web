@@ -19,33 +19,22 @@ import internal.GlobalVariable as GlobalVariable
 WebUI.refresh()
 
 'User Employee Input Password'
-WebUI.setText(findTestObject('Login/input_Login_password'), GlobalVariable.passwordEmployeeLearner)
+WebUI.setText(findTestObject('Login/input_Login_password'), username)
 
 'User Employee Input Username'
-WebUI.setText(findTestObject('Login/input_Login_username'), GlobalVariable.nikEmployeeLearner)
+WebUI.setText(findTestObject('Login/input_Login_username'), password)
 
 'User Employee Click "Login"'
 WebUI.click(findTestObject('Login/button_Login'))
 
-'The user employee view a text element to verify the username "Admintest Learner"'
-WebUI.verifyElementText(findTestObject('Learner/Dashboard/b_username'), 'Admintest Learner')
-
-'The user employee view a text element to verify the nik "0002"'
-WebUI.verifyElementText(findTestObject('Learner/Dashboard/b_nik'), '0002')
-
-'The user employee view a text element to verify the superordinate info "ADMINTEST_ATASAN"'
-WebUI.verifyElementText(findTestObject('Learner/Dashboard/span_name atasan'), 'ADMINTEST_ATASAN')
-
-WebUI.delay(2)
+'Users view a text element to verify the menu sebagai learner'
+WebUI.verifyElementText(findTestObject('Management/Side Menu/Verify menu sebagai learner/Timeline'), 'Timeline')
 
 'Users view a text element to verify the menu sebagai learner'
-WebUI.verifyElementText(findTestObject('Learner/Side Menu/Verify menu sebagai learner/Timeline'), 'Timeline')
+WebUI.verifyElementText(findTestObject('Management/Side Menu/Verify menu sebagai learner/Profile'), 'Profile')
 
 'Users view a text element to verify the menu sebagai learner'
-WebUI.verifyElementText(findTestObject('Learner/Side Menu/Verify menu sebagai learner/Profile'), 'Profil')
-
-'Users view a text element to verify the menu sebagai learner'
-WebUI.verifyElementText(findTestObject('Learner/Side Menu/Verify menu sebagai learner/Courses'), 'Course')
+WebUI.verifyElementText(findTestObject('Management/Side Menu/Verify menu sebagai learner/Courses'), 'Courses')
 
 'User Employee Click "Logout"'
 WebUI.click(findTestObject('Login/button_logout'))

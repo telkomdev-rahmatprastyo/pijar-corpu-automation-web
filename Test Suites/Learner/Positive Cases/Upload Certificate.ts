@@ -16,5 +16,11 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Learner/Positive Cases/Upload Certificate/TC001-Upload Certificate</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1d2554fd-d9da-4b0e-97d2-72188f96088c</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

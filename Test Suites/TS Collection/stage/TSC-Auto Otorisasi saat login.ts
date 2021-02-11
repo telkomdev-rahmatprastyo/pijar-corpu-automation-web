@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteCollectionEntity>
-   <description></description>
-   <name>TSC-Login Testing</name>
+   <description>Auto Otorisa saat login</description>
+   <name>TSC-Auto Otorisasi saat login</name>
    <tag></tag>
    <executionMode>SEQUENTIAL</executionMode>
    <maxConcurrentInstances>8</maxConcurrentInstances>
@@ -9,11 +9,11 @@
       <TestSuiteRunConfiguration>
          <configuration>
             <groupName>Web Desktop</groupName>
-            <profileName>develop</profileName>
+            <profileName>staging</profileName>
             <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Login/Positive Cases/TS-Positive Login</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Login/Positive Cases/TS-Positive-Auto Otorisasi</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

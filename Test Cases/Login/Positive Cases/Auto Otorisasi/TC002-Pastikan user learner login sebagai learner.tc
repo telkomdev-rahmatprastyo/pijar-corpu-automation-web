@@ -5,4 +5,18 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>d4d862ba-2150-4391-82f7-986b0d3a314a</testCaseGuid>
+   <variable>
+      <defaultValue>'90001'</defaultValue>
+      <description></description>
+      <id>2fd028ab-6b13-4651-ba79-a9a2a0a43abc</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password.90002'</defaultValue>
+      <description></description>
+      <id>ff642712-0c27-4aac-9f58-d93356619940</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
 </TestCaseEntity>

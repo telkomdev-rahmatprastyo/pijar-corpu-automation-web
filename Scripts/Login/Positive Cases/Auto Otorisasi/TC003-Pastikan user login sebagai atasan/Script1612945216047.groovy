@@ -19,24 +19,22 @@ import internal.GlobalVariable as GlobalVariable
 WebUI.refresh()
 
 'User Employee Input Username'
-WebUI.setText(findTestObject('Login/input_Login_username'), GlobalVariable.nikEmployeeManagement)
+WebUI.setText(findTestObject('Login/input_Login_username'), username)
 
 'User Employee Input Password'
-WebUI.setText(findTestObject('Login/input_Login_password'), GlobalVariable.passwordEmployeeManagement)
+WebUI.setText(findTestObject('Login/input_Login_password'), password)
 
 'User Employee Click "Login"'
 WebUI.click(findTestObject('Login/button_Login'))
 
-'Users view a text element to verify the username "Admintest Learner"'
-WebUI.verifyElementText(findTestObject('Management/Dashboard/b_username'), 'Admintest Atasan')
+'User atasan view a text element to verify the menu sebagai learner'
+WebUI.verifyElementText(findTestObject('Management/Side Menu/Verify menu sebagai learner/Timeline'), 'Timeline')
 
-'Users view a text element to verify the nik "0002"'
-WebUI.verifyElementText(findTestObject('Management/Dashboard/b_nik'), '0001')
+'User atasan view a text element to verify the menu sebagai learner'
+WebUI.verifyElementText(findTestObject('Management/Side Menu/Verify menu sebagai learner/Profile'), 'Profile')
 
-'Users view a text element to verify the superordinate info "BANG JAGO"'
-WebUI.verifyElementText(findTestObject('Management/Dashboard/span_name atasan'), 'BANG JAGO')
-
-WebUI.delay(2)
+'User atasan view a text element to verify the menu sebagai learner'
+WebUI.verifyElementText(findTestObject('Management/Side Menu/Verify menu sebagai learner/Courses'), 'Courses')
 
 'Users view a text element to verify the menu sebagai atasan'
 WebUI.verifyElementText(findTestObject('Management/Side Menu/Verify menu sebagai atasan/Approval'), 'Approval')
