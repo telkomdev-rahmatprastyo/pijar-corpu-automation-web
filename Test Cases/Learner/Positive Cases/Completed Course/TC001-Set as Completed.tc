@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description></description>
+   <description>User Learner can set course as completed before upload certificate, so the course status' will be &quot;Completed&quot;</description>
    <name>TC001-Set as Completed</name>
    <tag></tag>
    <comment></comment>

@@ -34,12 +34,12 @@ WebUI.click(findTestObject('Learner/Menu Profile/Profile'))
 'User Learner click "My Course" to see a list of courses that are On Going, Pending, Rejected, or Finished'
 WebUI.click(findTestObject('Learner/Menu Profile/My Course'))
 
-'User Learner Click "Course" : 3 Minute Italian - Course 1 | Language lessons for beginners'
-WebUI.click(findTestObject('Learner/My course/Completed Course/div_NET 5 Web API  Entity Framework Crash Course'))
+'User Learner Click "Course" : The Coding Interview Bootcamp: Algorithms + Data Structures'
+WebUI.click(findTestObject('Learner/My course/Completed Course/Course 2/div_The Coding Interview Bootcamp Algorithms  Data Structures'))
 
-'Users view a text element to verify the title of the course "3 Minute Italian - Course 1 | Language lessons for beginners"'
-WebUI.verifyElementText(findTestObject('Learner/My course/Completed Course/span_NET 5 Web API  Entity Framework Crash Course'), 
-    '.NET 5 Web API & Entity Framework Crash Course')
+'Users view a text element to verify the title of the course "The Coding Interview Bootcamp: Algorithms + Data Structures"'
+WebUI.verifyElementText(findTestObject('Learner/My course/Completed Course/Course 2/span_The Coding Interview Bootcamp Algorithms  Data Structures'), 
+    'The Coding Interview Bootcamp: Algorithms + Data Structures')
 
 'User Learner view "Upload Certificate" button but can\'t click it'
 WebUI.verifyElementNotClickable(findTestObject('Learner/My course/Completed Course/button_Upload Certificate'))
@@ -60,7 +60,7 @@ WebUI.verifyElementText(findTestObject('Learner/My course/Completed Course/div_S
 WebUI.click(findTestObject('Learner/My course/Completed Course/a_Ok'))
 
 'Users view "Upload Certificate" and able to click it, it will shown upload certificate form'
-WebUI.verifyElementClickable(findTestObject('Learner/My course/Completed Course/button_Upload Certificate'))
+WebUI.verifyElementClickable(findTestObject('Learner/My course/Completed Course/Course 2/button_Upload Certificate'))
 
 'Button "Set As Completed" change to "Completed" and disable to click'
 WebUI.verifyElementText(findTestObject('Learner/My course/Completed Course/div_Completed'), 'Completed')
