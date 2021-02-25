@@ -19,10 +19,10 @@ import internal.GlobalVariable as GlobalVariable
 WebUI.refresh()
 
 'User Employee Input Password'
-WebUI.setText(findTestObject('Login/input_Login_password'), username)
+WebUI.setText(findTestObject('Login/input_Login_username'), username)
 
 'User Employee Input Username'
-WebUI.setText(findTestObject('Login/input_Login_username'), password)
+WebUI.setText(findTestObject('Login/input_Login_password'), password)
 
 'User Employee Click "Login"'
 WebUI.click(findTestObject('Login/button_Login'))

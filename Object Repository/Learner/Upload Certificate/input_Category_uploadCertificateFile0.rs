@@ -6,6 +6,10 @@
    <elementGuidId>f0b9768b-95bf-4fe0-9d6c-c4cbb6481611</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'file' and @id = 'uploadCertificateFile0']</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//input[@id='uploadCertificateFile0']</value>
       </entry>

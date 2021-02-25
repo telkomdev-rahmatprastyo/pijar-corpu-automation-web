@@ -57,7 +57,7 @@
       <guid>5c57a884-41bd-4a7e-b9cd-d9c7a64bcaaa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login/Positive Cases/Auto Otorisasi/TC003-Pastikan user login sebagai atasan</testCaseId>
+      <testCaseId>Test Cases/Login/Positive Cases/Auto Otorisasi/TC003-Pastikan user atasan login sebagai atasan</testCaseId>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
