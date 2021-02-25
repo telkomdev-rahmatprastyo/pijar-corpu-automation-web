@@ -6,6 +6,10 @@
    <elementGuidId>fa704cb2-8fcb-4afc-a21c-5c9c2ca460a0</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'button' and (text() = 'Add' or . = 'Add')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>(//button[@type='button'])[4]</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>button.upload-certificate-button.text-white.bg-danger.btn.btn-secondary</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

@@ -12,6 +12,12 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>ffbee7b9-4e1e-4760-9aeb-2d61362e891b</testSuiteGuid>
    <testCaseLink>
+      <guid>ba57d0a6-5c06-4e71-b2d6-cda289340284</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/CustomKeyword In TestCase/Open Browser</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
       <guid>9068b143-177b-413b-b67b-a576f786a92a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

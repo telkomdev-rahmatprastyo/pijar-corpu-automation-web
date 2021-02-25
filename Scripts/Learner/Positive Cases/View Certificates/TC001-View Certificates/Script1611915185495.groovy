@@ -32,7 +32,7 @@ WebUI.click(findTestObject('Learner/Side Menu/Profile'))
 WebUI.click(findTestObject('Learner/Menu Profile/My Course'))
 
 'User click "Course" : 3D Programming with JavaScript and the Three.js 3D Library'
-WebUI.click(findTestObject('Learner/Upload Certificate/Page_Learn Aja/div_3D Programming with JavaScript and the Threejs 3D Library'))
+WebUI.click(findTestObject('Learner/Upload Certificate/Course/div_3D Programming with JavaScript and the Threejs 3D Library'))
 
 'Users view a text element to verify status certificate "Waiting For Approval"'
 WebUI.verifyElementText(findTestObject('Learner/View Certificates/label_Waiting For Approval'), 'Waiting For Approval')

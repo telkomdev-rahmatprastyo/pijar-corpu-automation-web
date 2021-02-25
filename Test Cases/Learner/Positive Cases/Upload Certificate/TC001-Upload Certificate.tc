@@ -5,4 +5,11 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>661d0d68-641f-4fd3-bd09-db7ca0751fac</testCaseGuid>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Rahmat Prastyo\\\\Documents\\\\file upload\\\\30.pdf'</defaultValue>
+      <description></description>
+      <id>1d2554fd-d9da-4b0e-97d2-72188f96088c</id>
+      <masked>false</masked>
+      <name>fileUpload</name>
+   </variable>
 </TestCaseEntity>
