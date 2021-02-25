@@ -8,21 +8,12 @@
    <testSuiteRunConfigurations>
       <TestSuiteRunConfiguration>
          <configuration>
-            <groupName>Custom</groupName>
-            <profileName>production</profileName>
-            <runConfigurationId>chrome-positive-prod</runConfigurationId>
+            <groupName>Web Desktop</groupName>
+            <profileName>develop</profileName>
+            <runConfigurationId>Chrome</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
          <testSuiteEntity>Test Suites/Login/Positive Cases/TS-Positive Login</testSuiteEntity>
-      </TestSuiteRunConfiguration>
-      <TestSuiteRunConfiguration>
-         <configuration>
-            <groupName>Custom</groupName>
-            <profileName>production</profileName>
-            <runConfigurationId>chrome-negative-prod</runConfigurationId>
-         </configuration>
-         <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Login/Negative Cases/TS-Negative Login</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

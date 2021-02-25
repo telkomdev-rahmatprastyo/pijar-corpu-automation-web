@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pastikan user atasan login sebagai atasan</description>
+   <name>TC003-Pastikan user atasan login sebagai atasan</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>13ba6019-8ae2-45c7-ac9d-9f3c6df7de5a</testCaseGuid>
+   <variable>
+      <defaultValue>'60002'</defaultValue>
+      <description></description>
+      <id>27940aff-13ad-437e-8dfe-057ed1620797</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'password.60002'</defaultValue>
+      <description></description>
+      <id>1bec39e6-4861-4b56-ada3-7e3b2b50267d</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

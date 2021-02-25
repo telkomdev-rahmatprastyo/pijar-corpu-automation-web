@@ -6,6 +6,10 @@
    <elementGuidId>1aa6a95c-810f-4072-88e2-06f3baaccaaa</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Load More' or . = 'Load More')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
          <value>//div[@id='root']/div/div/div[2]/main/div/div/div/div[2]/div/div/div/div/div/div/div[6]/label</value>
       </entry>
@@ -14,7 +18,7 @@
          <value>label.course-status-load-more-label</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
