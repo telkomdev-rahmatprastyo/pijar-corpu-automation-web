@@ -49,4 +49,14 @@
       <initValue>'password.1000'</initValue>
       <name>passwordEmployeeAdmin</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1100'</initValue>
+      <name>nikEmployeeReporter</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'password.1100'</initValue>
+      <name>passwordEmployeeReporter</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
